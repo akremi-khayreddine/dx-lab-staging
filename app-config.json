@@ -1,0 +1,10 @@
+{
+  "projectId": "elocatus-staging",
+  "appId": "1:812419704556:web:526fc521ce488db043a7c9",
+  "databaseURL": "https://elocatus-staging.firebaseio.com",
+  "storageBucket": "elocatus-staging.appspot.com",
+  "locationId": "europe-west",
+  "apiKey": "AIzaSyBUIkBn_qM6YZDJtabNbX00gNmSm-vlzLg",
+  "authDomain": "elocatus-staging.firebaseapp.com",
+  "messagingSenderId": "812419704556"
+}
